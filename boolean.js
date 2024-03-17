@@ -1,4 +1,3 @@
-
 function inPositive(x1) {
     return Boolean(x1 > 0)
 }
